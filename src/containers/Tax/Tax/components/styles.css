@@ -1,0 +1,49 @@
+    #plain-react .tabs-1 .content1 {
+        padding-top: 30px;
+        width: 100% !important;
+        min-height: fit-content;
+        /* min-width: 400px; */
+        /* border: none !important; */
+        background-color: white;
+    }
+    
+    #plain-react {
+        /* width: 100% !important; */
+        background-color: white;
+    }
+    
+    .content1 {
+        width: 100% !important;
+        background-color: white;
+    }
+    
+    #plain-react .tabs-1 .tab-link {
+        padding: 0 15px;
+        cursor: pointer;
+        /* border: 1px solid transparent; */
+        background: transparent;
+        display: inline-block;
+        position: relative;
+        height: 40px;
+        /* line-height: 41px; */
+        top: -4px;
+        left: -1px;
+        outline: none !important;
+    }
+    
+    #plain-react .tabs-1 .tab-link:hover,
+    #plain-react .tabs-1 .tab-link:focus {
+        color: #666464;
+    }
+    
+    #plain-react .tabs-1 .tab-link-active,
+    #plain-react .tabs-1 .tab-link-active:hover,
+    #plain-react .tabs-1 .tab-link-active:focus {
+        /* color: black; */
+        font-weight: bold;
+        /* border: 1px solid #868686; */
+        border-bottom: 1px solid white;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        background-color: white;
+    }

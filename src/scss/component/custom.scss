@@ -1,0 +1,71 @@
+.table-setting {
+    border: 0 !important;
+}
+.reports-sp-h {
+    margin-bottom: 15px;
+}
+.reports-sp-b {
+    margin: 0 !important;
+}
+.btn-generate {
+    padding: 4px 15px;
+    font-size: 11px;
+    margin-left: 20px !important;
+    min-width: 100px;
+    margin-bottom: 0 !important;
+}
+.add-element {
+    float: right;
+    a {
+        padding: 0;
+        margin-top: -3px;
+    }
+}
+.ingredient_field-set {
+    padding: 0.6rem 1rem;
+    margin: 2rem 0;
+    border: 1px solid #f2f4f7;
+    .form-control {
+        border: 1px solid #f2f4f7;
+    }
+}
+.react-select {
+    border: 1px solid #f2f4f7;
+}
+.serial_label{
+    width: 96px !important;
+}
+.serial_but{
+    padding: 0 !important;
+}
+.serial_int{
+    margin-left: 0 !important;
+}
+.fieldRequired{
+    border: 1px solid red!important;
+}
+.sales-dates{
+    padding: 0;
+    margin: 0 -5px 15px -5px;
+}
+.sales-dates .react-datepicker-wrapper{
+    width: 100%;
+}
+.sales-dates .react-datepicker-wrapper .react-datepicker__input-container{
+    width: 100%;
+}
+.sales-dates .react-datepicker-wrapper .react-datepicker__input-container input{
+    font-size: 14px;
+}
+.sales-dates .wid50{
+    width: 50%;
+    float: left;
+    padding: 0 5px;
+}
+.sales-dates .wid50 label{
+    margin: 0;
+    text-transform: uppercase;
+    color: #646777;
+    font-weight: 700;
+    font-size: 12px;
+}
